@@ -2,7 +2,8 @@
   <img width="20%" src="assets/logo.svg" />
 </div>
 
-# Mattermost E2EE plugin (by [Quarkslab](https://quarkslab.com) Securtioy updates by Justvanbloom)
+# Mattermost E2EE plugin (by [Quarkslab](https://quarkslab.com))
+# Security updates by Justvanbloom
 
 This plugin brings end-to-end encryption (E2EE) to Mattermost. It uses the
 [WebCrypto
